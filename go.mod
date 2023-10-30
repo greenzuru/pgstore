@@ -1,4 +1,4 @@
-module github.com/antonlindstrom/pgstore
+module github.com/greenzuru/pgstore
 
 go 1.17
 
